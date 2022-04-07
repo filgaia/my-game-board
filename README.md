@@ -1,4 +1,5 @@
 # my-game-board
+
 My Game Collection Board with Graphql
 
 ## Description
@@ -7,12 +8,13 @@ You will find here how to create an small games board
 
 ### How to run
 
-- Enter `server` folder
-- Run `npm run start`
-- Access by http://localhost:9000/graphql The **Playground**
-- Enter `client` folder
-- Run `npm run start`
-- Access by http://localhost:3000 The **UI**
+- `npm i`
+- `npm run bootstrap`
+- `npm start`
+
+### Graphql Playground
+
+- http://localhost:9000/graphql
 
 ### References
 

@@ -3,8 +3,9 @@
   "private": true,
   "scripts": {
     "audit": "lerna-audit",
+    "bootstrap": "lerna bootstrap --hoist",
     "start": "lerna run start --stream",
-    "clean": "lerna clean"
+    "clean": "lerna clean -y"
   },
   "devDependencies": {
     "lerna": "^4.0.0",
